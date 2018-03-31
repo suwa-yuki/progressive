@@ -1,7 +1,7 @@
 {
   "name": "app",
   "short_name": "app",
-  "start_url": "/",
+  "start_url": "/progressive",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
